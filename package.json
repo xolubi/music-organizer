@@ -1,0 +1,20 @@
+{
+  "name": "music-organizer",
+  "version": "1.0.0",
+  "description": "A little script to help organize your music files by metadata",
+  "main": "app.js",
+  "dependencies": {
+    "bluebird": "^2.3.11",
+    "inquirer": "^0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xolubi/music-organizer.git"
+  },
+  "author": "Ezra Olubi",
+  "license": "MIT"
+}
